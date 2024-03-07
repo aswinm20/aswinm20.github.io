@@ -140,7 +140,7 @@ GitHub Pages due to its ability to host static websites.
 ## Author and Acknowledgments
  I want to thank
 
-- Andrew Etter for insights on DVCS, static web pages, and markup languages from Modern Technical Writing.
+- Andrew Etter for insights on DVCS, static web pages, and markup languages from his book, "Modern Technical Writing".
 
 - Daattali for their beautiful-jekyll theme, enhancing the aesthetics of the hosted resume.
 
