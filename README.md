@@ -106,13 +106,15 @@ which alligns with Etter's idea on creating visually appealing websites.
 
 <br>
 
+
 **5. Open your hosted resume using a url link.**
 > 1. Search the url "[your GitHub username].github.io" to view your hosted resume. <br>
 >    ***For example**: If my GitHub username is aswinm20 , then I will search the url, aswinm20.github.io*
 >    
 > When you open the link, your Markdown resume should look similar to this.
->
-> ![ezgif com-animated-gif-maker](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/26f8e971-8470-46c2-8790-0d0e3a0e9c7c)
+> 
+>![ezgif com-animated-gif-maker](https://github.com/aswinm20/aswinm20.github.io/assets/162495676/b2002a12-b467-434c-aae6-3f0c9c47cf73)
+
 
 ```
 In his book "Modern Technical Writing", Andrew Etter emphasizes the use of static websites because of 
