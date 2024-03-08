@@ -101,7 +101,7 @@ supports efficient version control and collaboration.
 According to Andrew Etter in his book, "Modern Technical Writing", for a unique and eye catching website, 
 customization of themes is crucial. In our example, we used a theme to add some style and structure to   
 our hosted resume. This customization is essential for differentiating content between pages and websites, 
-which alligns with Etter's idea on creating visually appealing websites.
+which aligns with Etter's idea on creating visually appealing websites.
 ```
 
 <br>
