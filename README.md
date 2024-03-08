@@ -148,7 +148,7 @@ GitHub Pages due to its ability to host static websites.
 
 - Shaun Paraplammoottil Cheiryan and Zack Wiebe for their valuable feedback on this README.
 
-- And finally, professor Stewart for guidance and support throughout the development of this README. 
+- And finally, professor Stewart Wilcox for guidance and support throughout the development of this README. 
 
 ## FAQs
 
