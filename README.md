@@ -10,7 +10,8 @@ After going through this README, it will have served two purposes:
 
 ## Prerequisites
 
-Ensure you have a resume in Markdown format.
+1. Ensure you have a resume in Markdown format.
+2. Have an email ready for a new github account.
 
 
 ~~~
@@ -64,7 +65,8 @@ supports efficient version control and collaboration.
 >
 > ![Screenshot 2024-03-07 085505](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/803848de-c067-4c9c-96d6-967984606451)
 >
-> 2. Name your file "index.md" and copy paste your resume into the box
+> 2. Name your file "index.md"
+> 3. Copy paste your resume into the input box
 >
 > ![Screenshot 2024-03-07 090118](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/3d5a3e33-873e-4b49-a13e-20b9cd74a58f)
 >
@@ -86,7 +88,7 @@ supports efficient version control and collaboration.
 > 
 > ![Screenshot 2024-03-07 094153](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/3ff82899-522a-4e67-97e1-bee040d4be53)
 >
-> 4. And finally, click "Commit Changes..." on the top right to finish adding your theme.
+> 4. Click "Commit Changes..." on the top right to finish adding your theme.
 >
 > After doing the above steps, you will notice how there is a orange dot in your repository page
 >
