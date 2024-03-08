@@ -48,7 +48,7 @@ supports efficient version control and collaboration.
 >    
 > ![Screenshot 2024-03-07 083415](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/07690590-9bbd-4627-9d27-524b9975db4c)
 >
-> 2. Enter your GitHub user name along with ".github.io" in the "Repository Name* input box.
+> 2. Enter your GitHub user name along with ".github.io" in the "Repository Name" input box. <br>
 >    ***For example**: if my GitHub user name is aswinm20 , then I will name my repository, "aswinm20.github.io".*
 >
 > ![Screenshot 2024-03-07 084251](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/9e3dd4eb-1346-4e99-8d6a-1a89755eaab4)
