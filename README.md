@@ -1,6 +1,6 @@
 # Hosting a Markdown Resume on GitHub Pages
 
-## The goal of this README
+## Purpose
 
 After going through this README, it will have served two purposes: 
 
