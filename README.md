@@ -29,7 +29,7 @@ are mirroring this principle.
 
 **1. Create A GitHub Account**
 > 1. Visit [github.com](https://github.com/) and click on Sign Up. 
-> 2. After creating your account, you should end up with a page that looks similar to this.
+> After creating your account, you should end up with a page that looks similar to this.
 >    
 > ![Screenshot 2024-03-07 081546](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/74059718-40b7-42a3-8eab-8e5a508e8ee0)
 
@@ -70,7 +70,7 @@ will help you take advantage of an environment that supports efficient version c
 >
 > ![Screenshot 2024-03-07 090118](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/3d5a3e33-873e-4b49-a13e-20b9cd74a58f)
 >
-> 3. Click on "Commit changes..." to finish uploading the file.
+> 4. Click on "Commit changes..." to finish uploading the file.
 >
 > After you have followed the above steps you will end up with a page like this.
 >
