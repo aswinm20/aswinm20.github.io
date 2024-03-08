@@ -132,7 +132,7 @@ GitHub Pages due to its ability to host static websites.
 
 - Visit this [link](https://www.markdownguide.org/getting-started/) to have a general understanding of Markdown.
 
-- Visit this [link](https://www.markdowntutorial.com/) for an quick and easy tutorial on the basics of Markdown.
+- Visit this [link](https://www.markdowntutorial.com/) for a quick and easy tutorial on the basics of Markdown.
 
 - Since, we will be focussing on hosting a Markdown formatted resume on Github Pages, here is a [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to some useful syntax on GitHub Flavoured Markdown.
 
@@ -146,7 +146,7 @@ GitHub Pages due to its ability to host static websites.
 ## Author and Acknowledgments
  I want to thank
 
-- Andrew Etter for insights on DVCS, static web pages, and markup languages from his book, "Modern Technical Writing".
+- Andrew Etter for insights on DVCS, static web pages, and markup languages through his book, "Modern Technical Writing".
 
 - Daattali for their beautiful-jekyll theme, enhancing the aesthetics of the hosted resume.
 
@@ -159,9 +159,9 @@ GitHub Pages due to its ability to host static websites.
 Q1) Why is Markdown better than a word processor?
 > Markdown is preferred over a word processor for several reasons:
 >
-> - According to Andrew Etter in his book, "Modern Technical Writing" , he mentions how markup languages like Markdown uses straightforward and simple syntax which is easy to read. This helps to focuss on the content rather than worry about the formatting.
+> - According to Andrew Etter in his book, "Modern Technical Writing" , he mentions how markup languages like Markdown uses straightforward and simple syntax which is easy to read. This helps in focussing on the content rather than worrying about the formatting.
 >
-> - He also mentions in his book that Markdown files are platform-independent due it being primarly text-based. According to Andrew, a word processor will be useful for resumes, but unsuitable for technical documentation because, it does not work well with version control and HTML export. However, according to him, this is not the case with Markdown as it can handle the two latter conditions.
+> - He also mentions in his book that Markdown files are platform-independent due it being primarly text-based. According to Andrew, a word processor will be useful for resumes, but unsuitable for technical documentation because, it does not work well with version control and HTML export. However, according to him, this is not the case with Markdown as it can handle the two latter cases.
 
 Q2) Why is my resume not showing up?
 > If your hosted resume is not appearing, consider the following troubleshooting steps:
