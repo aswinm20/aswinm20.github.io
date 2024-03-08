@@ -16,7 +16,7 @@ After going through this README, it will have served two purposes:
 
 ~~~
 In his book "Modern Technical Writing", Andrew Etter emphasizes the use of lightweight markup languages,
-such as Markdown ,due to its simplicity and readability. By using Markdown for your resume, you make
+such as Markdown, due to its simplicity and readability. By using Markdown for your resume, you make
 it accessible and easily editable across different plaforms. 
 
 Markdown's easy to understand syntax improves readability according to Andrew Etter. He mentions in his
