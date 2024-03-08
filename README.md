@@ -15,8 +15,8 @@ After going through this README, it will have served two purposes:
 
 ~~~
 In his book "Modern Technical Writing", Andrew Etter emphasizes the use of lightweight markup languages,
-such as Markdown ,due to their simplicity and readability. By using Markdown for your resume, you make
-it accessible and easily editable throughtout different plaforms. 
+such as Markdown ,due to its simplicity and readability. By using Markdown for your resume, you make
+it accessible and easily editable across different plaforms. 
 
 Markdown's easy to understand syntax improves readability according to Andrew Etter. He mentions in his
 book that content should be easily understandable in its raw or original form, and by using Markdown we
@@ -119,7 +119,7 @@ which alligns with Etter's idea on creating visually appealing websites.
 ```
 In his book "Modern Technical Writing", Andrew Etter emphasizes the use of static websites because of 
 its ability to take lightweight markup(such as Markdown) and processing them into a functional website. 
-He also mentioned that by utilizing a static site generator, any changes that have be to made to the website 
+He also mentioned that, by utilizing a static site generator, any changes that have be to made to the website 
 (in our case, the hosted resume) becomes a simple task of changing the content. This is exactly why we chose 
 GitHub Pages due to its ability to host static websites.
 ```
