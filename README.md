@@ -80,22 +80,23 @@ will help you take advantage of an environment that supports efficient version c
 <br>
 
 **4. Add a theme to your resume**
-> 1. Click on "Add file" button and select "Create new file".
+> 1. Click on the "Add file" button.
+> 2. select "Create new file".
 >
 > ![Screenshot 2024-03-07 092249](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/40e72863-0e38-44ce-904f-a242b078ecf8)
 >
-> 2. Name your file "_config.yml".
-> 3. Write "remote_theme: daattali/beautiful-jekyll" in the input box. <br>
+> 3. Name your file "_config.yml".
+> 4. Write "remote_theme: daattali/beautiful-jekyll" in the input box. <br>
 > 
 > ![Screenshot 2024-03-07 094153](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/3ff82899-522a-4e67-97e1-bee040d4be53)
 >
-> 4. Click "Commit Changes..." on the top right to finish adding your theme.
+> 5. Click "Commit Changes..." on the top right to finish adding your theme.
 >
-> After doing the above steps, you will notice how there is a orange dot in your repository page
+> After doing the above steps, you will notice an orange dot in your repository page
 >
 > ![Screenshot 2024-03-07 094547](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/7dde3509-0e72-46e8-b35a-95e2358b5140)
 >
-> 5. Wait for this dot to turn green and into a check mark like so.
+> 6. Wait for this dot to turn green and into a check mark like so.
 >
 > ![Screenshot 2024-03-07 095648](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/0e329ea5-1583-4fdb-9b27-2bf2c5315192)
 >
