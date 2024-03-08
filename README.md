@@ -144,7 +144,7 @@ GitHub Pages due to its ability to host static websites.
 
 
 ## Author and Acknowledgments
- I want to thank
+ I want to thank:
 
 - Andrew Etter for insights on DVCS, static web pages, and markup languages through his book, "Modern Technical Writing".
 
