@@ -10,7 +10,7 @@ After going through this README, it will have served two purposes:
 
 ## Prerequisites
 
->Ensure you have a resume in Markdown format.
+Ensure you have a resume in Markdown format.
 
 
 ~~~
