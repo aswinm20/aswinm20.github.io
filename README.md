@@ -36,9 +36,9 @@ are mirroring this principle.
 ```
 In his book "Modern Technical Writing", Andrew Etter emphasizes the advantage of distributed version 
 control systems such as Git. By applying distributed version control system into documentation, 
-it ensures performance, offline capabilities, and streamlined collaboration. By hosting your markdown resume 
-on GitHub, which is a distributed version control system platform, you take advantage of an environment that 
-supports efficient version control and collaboration.
+it ensures performance, offline capabilities, and streamlined collaboration according to Andrew Etter.
+He also mentions that hosting your markdown resume on GitHub, a distributed version control system platform,
+will help you take advantage of an environment that supports efficient version control and collaboration.
 ```
 
 
