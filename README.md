@@ -134,7 +134,7 @@ GitHub Pages due to its ability to host static websites.
 
 - Visit this [link](https://www.markdowntutorial.com/) for a quick and easy tutorial on the basics of Markdown.
 
-- Since, we will be focussing on hosting a Markdown formatted resume on Github Pages, here is a [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to some useful syntax on GitHub Flavoured Markdown.
+- Since, we are focussing on hosting a Markdown formatted resume on Github Pages, here is a [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to some useful syntax on GitHub Flavoured Markdown.
 
 -  Themes make your Websites have style and structure. Here, we used the theme "daattali/beautiful-jekyll", but you are not limited to just this one option. Visit this [link](https://pages.github.com/themes/) to explore more themes.
 
